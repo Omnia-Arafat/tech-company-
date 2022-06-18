@@ -1,0 +1,92 @@
+.a{
+    width:1500px;
+    display: block;
+
+
+}
+.t{
+
+
+    text-align: center;
+    
+    padding: 33px 33% 33px 33%;
+    font-size: 21px;
+    font-family: system-ui;
+}
+.b{
+    width: 33%;
+}
+.cont{
+margin: 150px auto;
+padding: 8px;
+width: 50%;
+}
+
+.d{
+    float: right;
+    width: 516px;
+    height: 287px;
+    padding-top: 60px;
+    padding-left: 70px;
+}
+
+
+
+.p
+{
+    text-align: justify;
+    padding-top: 76px;
+    font-size: 25px;
+
+}
+
+.e{
+    float: left;
+    width: 516px;
+    height: 287px;
+    padding-top: 97px;
+    padding-right: 70px;
+}
+.q{
+
+
+    text-align: justify;
+    padding-top: 76px;
+    font-size: 25px;
+
+}
+.f{
+    float: right;
+    width: 403px;
+    height: 518px;
+    padding-top: 209px;
+    padding-left: 70px;
+
+}
+.form{
+
+    padding-left: 119px;
+
+    padding-top:285px;
+}
+.lnametext{
+
+
+    padding-left:179px;
+}
+#fnamelabel{
+
+        height: 44px;
+            width: 241px;
+        
+    
+}
+#lnamelabel{
+    height: 44px;
+    width: 241px;
+}
+#message{
+
+    height: 300px;
+    width: 494px;
+}
